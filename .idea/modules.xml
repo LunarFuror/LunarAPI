@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LunarAPI.iml" filepath="$PROJECT_DIR$/.idea/LunarAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LunarSandbox/.idea/LunarSandbox.iml" filepath="$PROJECT_DIR$/../LunarSandbox/.idea/LunarSandbox.iml" />
     </modules>
   </component>
 </project>
